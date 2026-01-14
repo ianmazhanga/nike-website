@@ -1,5 +1,5 @@
 
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import { HashRouter, Routes, Route } from 'react-router-dom'
 import { Navigation } from './components/Navigation'
 import { Footer } from './components/footer'
 import { HomePage } from './pages/HomePage'
@@ -9,7 +9,7 @@ import { KidsPage } from './pages/Kidspage'
 import { SalePage } from './pages/SalePage'
 export default function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="w-full min-h-screen bg-white">
         <Navigation />
         <main className="pt-16">
@@ -23,7 +23,7 @@ export default function App() {
         </main>
         <Footer />
       </div>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
 
