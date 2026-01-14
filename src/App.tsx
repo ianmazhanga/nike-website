@@ -1,5 +1,5 @@
 
-import { HashRouter, Routes, Route } from 'react-router-dom'
+import { HashRouter, Routes, Route, Navigate } from 'react-router-dom'
 import { Navigation } from './components/Navigation'
 import { Footer } from './components/footer'
 import { HomePage } from './pages/HomePage'
@@ -19,6 +19,7 @@ export default function App() {
             <Route path="/women" element={<WomenPage />} />
             <Route path="/kids" element={<KidsPage />} />
             <Route path="/sale" element={<SalePage />} />
+            <Route path="*" element={<Navigate to="/" replace />} />
           </Routes>
         </main>
         <Footer />
