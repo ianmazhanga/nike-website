@@ -29,7 +29,7 @@ export function MenPage() {
         'https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&q=80',
       name: 'Air Max 90',
       category: "Men's Shoes",
-      price: '$130',
+      price: 'R2,399',
       colors: 4,
     },
     {
@@ -37,7 +37,7 @@ export function MenPage() {
         'https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=800&q=80',
       name: 'Air Jordan 1 Mid',
       category: "Men's Shoes",
-      price: '$125',
+      price: 'R2,299',
       colors: 3,
     },
     {
@@ -45,7 +45,7 @@ export function MenPage() {
         'https://images.unsplash.com/photo-1549298916-b41d501d3772?w=800&q=80',
       name: "Blazer Mid '77",
       category: "Men's Shoes",
-      price: '$110',
+      price: 'R1,999',
       colors: 4,
     },
     {
@@ -53,7 +53,7 @@ export function MenPage() {
         'https://images.unsplash.com/photo-1460353581641-37baddab0fa2?w=800&q=80',
       name: 'Dunk Low Retro',
       category: "Men's Shoes",
-      price: '$115',
+      price: 'R2,099',
       colors: 6,
     },
     {
@@ -61,7 +61,7 @@ export function MenPage() {
         'https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?w=800&q=80',
       name: 'React Infinity Run',
       category: "Men's Running Shoes",
-      price: '$160',
+      price: 'R2,999',
       colors: 3,
     },
     {
@@ -69,7 +69,7 @@ export function MenPage() {
         'https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?w=800&q=80',
       name: 'Metcon 8',
       category: "Men's Training Shoes",
-      price: '$150',
+      price: 'R2,799',
       colors: 5,
     },
     {
@@ -77,7 +77,7 @@ export function MenPage() {
         'https://images.unsplash.com/photo-1605348532760-6753d2c43329?w=800&q=80',
       name: 'LeBron XX',
       category: "Men's Basketball Shoes",
-      price: '$200',
+      price: 'R3,699',
       colors: 4,
     },
     {
@@ -85,7 +85,7 @@ export function MenPage() {
         'https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=800&q=80',
       name: "Air Force 1 '07",
       category: "Men's Shoes",
-      price: '$110',
+      price: 'R1,999',
       colors: 8,
     },
   ]

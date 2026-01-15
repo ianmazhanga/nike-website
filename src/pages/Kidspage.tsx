@@ -24,7 +24,7 @@ export function KidsPage() {
         'https://images.unsplash.com/photo-1514590734052-344a18719611?w=800&q=80',
       name: 'Air Max 90',
       category: "Kids' Shoes",
-      price: '$85',
+      price: 'R1,599',
       colors: 5,
     },
     {
@@ -32,7 +32,7 @@ export function KidsPage() {
         'https://images.unsplash.com/photo-1603808033192-082d6919d3e1?w=800&q=80',
       name: 'Air Force 1',
       category: "Kids' Shoes",
-      price: '$75',
+      price: 'R1,399',
       colors: 6,
     },
     {
@@ -40,7 +40,7 @@ export function KidsPage() {
         'https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=800&q=80',
       name: 'Dunk Low',
       category: "Big Kids' Shoes",
-      price: '$80',
+      price: 'R1,499',
       colors: 4,
     },
     {
@@ -48,7 +48,7 @@ export function KidsPage() {
         'https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=800&q=80',
       name: 'Cortez',
       category: "Kids' Shoes",
-      price: '$65',
+      price: 'R1,199',
       colors: 5,
     },
     {
@@ -56,7 +56,7 @@ export function KidsPage() {
         'https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=800&q=80',
       name: 'Revolution 6',
       category: "Little Kids' Shoes",
-      price: '$55',
+      price: 'R999',
       colors: 4,
     },
     {
@@ -64,7 +64,7 @@ export function KidsPage() {
         'https://images.unsplash.com/photo-1542280756-74b2f55e73ab?w=800&q=80',
       name: 'Blazer Mid',
       category: "Big Kids' Shoes",
-      price: '$75',
+      price: 'R1,399',
       colors: 3,
     },
   ]

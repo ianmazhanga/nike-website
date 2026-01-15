@@ -28,7 +28,7 @@ export function ProductGrid() {
         'https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=800&q=80',
       name: 'Air Jordan 1 Mid',
       category: "Men's Shoes",
-      price: '$125',
+      price: 'R2,299',
       colors: 3,
     },
     {
@@ -36,7 +36,7 @@ export function ProductGrid() {
         'https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=800&q=80',
       name: 'Air Max 270',
       category: "Women's Shoes",
-      price: '$160',
+      price: 'R2,999',
       colors: 5,
     },
     {
@@ -44,7 +44,7 @@ export function ProductGrid() {
         'https://images.unsplash.com/photo-1549298916-b41d501d3772?w=800&q=80',
       name: "Blazer Mid '77",
       category: 'Unisex Shoes',
-      price: '$110',
+      price: 'R1,999',
       colors: 4,
     },
     {
@@ -52,7 +52,7 @@ export function ProductGrid() {
         'https://images.unsplash.com/photo-1460353581641-37baddab0fa2?w=800&q=80',
       name: 'Dunk Low Retro',
       category: "Men's Shoes",
-      price: '$115',
+      price: 'R2,099',
       colors: 6,
     },
   ]

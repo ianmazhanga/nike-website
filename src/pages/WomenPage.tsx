@@ -29,7 +29,7 @@ export function WomenPage() {
         'https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=800&q=80',
       name: 'Air Max 270',
       category: "Women's Shoes",
-      price: '$160',
+      price: 'R2,999',
       colors: 5,
     },
     {
@@ -37,7 +37,7 @@ export function WomenPage() {
         'https://images.unsplash.com/photo-1603787081207-362bcef7f812?w=800&q=80',
       name: 'Air Zoom Pegasus 40',
       category: "Women's Running Shoes",
-      price: '$140',
+      price: 'R2,599',
       colors: 6,
     },
     {
@@ -45,7 +45,7 @@ export function WomenPage() {
         'https://images.unsplash.com/photo-1600269452121-4f2416e55c28?w=800&q=80',
       name: 'Dunk Low',
       category: "Women's Shoes",
-      price: '$115',
+      price: 'R2,099',
       colors: 7,
     },
     {
@@ -53,7 +53,7 @@ export function WomenPage() {
         'https://images.unsplash.com/photo-1584735175315-9d5df23860e6?w=800&q=80',
       name: 'Air Force 1 Shadow',
       category: "Women's Shoes",
-      price: '$120',
+      price: 'R2,199',
       colors: 4,
     },
     {
@@ -61,7 +61,7 @@ export function WomenPage() {
         'https://images.unsplash.com/photo-1562183241-b937e95585b6?w=800&q=80',
       name: 'Blazer Low Platform',
       category: "Women's Shoes",
-      price: '$110',
+      price: 'R1,999',
       colors: 5,
     },
     {
@@ -69,7 +69,7 @@ export function WomenPage() {
         'https://images.unsplash.com/photo-1543508282-6319a3e2621f?w=800&q=80',
       name: 'React Infinity 3',
       category: "Women's Running Shoes",
-      price: '$160',
+      price: 'R2,999',
       colors: 4,
     },
     {
@@ -77,7 +77,7 @@ export function WomenPage() {
         'https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=800&q=80',
       name: 'Air Jordan 1 Mid',
       category: "Women's Shoes",
-      price: '$125',
+      price: 'R2,299',
       colors: 6,
     },
     {
@@ -85,7 +85,7 @@ export function WomenPage() {
         'https://images.unsplash.com/photo-1549298916-b41d501d3772?w=800&q=80',
       name: 'Cortez',
       category: "Women's Shoes",
-      price: '$90',
+      price: 'R1,699',
       colors: 8,
     },
   ]
